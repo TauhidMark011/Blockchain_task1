@@ -1,4 +1,4 @@
-# Tried deploying with the Hardhat for the a test for the contract, and a script that deploys that contract. (Blockchain_Task)
+# Tried deploying with the Hardhat for the test for the contract, and a script that deploys that contract. (Blockchain_Task)
 
 This project demonstrates Hardhat use case.
 
